@@ -1,0 +1,6 @@
+src/main/java/dinnerExperience/DiningExperienceManager.java:11:	UseTryWithResources:	UseTryWithResources: Consider using a try-with-resources statement instead of explicitly closing the resource
+src/main/java/dinnerExperience/MenuManager.java:12:	UseVarargs:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/dinnerExperience/MenuManager.java:13:	ArrayIsStoredDirectly:	ArrayIsStoredDirectly: The user-supplied array 'menu' is stored directly.
+src/main/java/dinnerExperience/MenuManager.java:24:	MethodReturnsInternalArray:	MethodReturnsInternalArray: Returning 'menu' may expose an internal array.
+src/main/java/dinnerExperience/OrderManager.java:12:	UseVarargs:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/dinnerExperience/SpecialDiscounts.java:15:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'totalCost'
